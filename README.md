@@ -1,4 +1,5 @@
 # hello-world
+--- english version ---
 My first repository as a test.
 
 Create a Repository
@@ -18,3 +19,27 @@ To create a new repository:
 4. Select Initialize this repository with a README.
 
 5. Click Create repository.
+---   ---   ---   ---
+
+--- german version ---
+
+Mein erstes Repository als Test.
+
+Erstellen Sie ein Repository
+
+Ein Repository wird normalerweise verwendet, um ein einzelnes Projekt zu organisieren. Repositories können Ordner und Dateien, Bilder, Videos, Tabellenkalkulationen und Datensätze enthalten – alles, was Ihr Projekt benötigt. Wir empfehlen, eine README oder eine Datei mit Informationen zu Ihrem Projekt beizufügen. GitHub macht es einfach, eines hinzuzufügen, während Sie Ihr neues Repository erstellen. Es bietet auch andere gängige Optionen wie eine Lizenzdatei.
+
+Ihr "Hello-World"-Repository kann ein Ort sein, an dem Sie Ideen und Ressourcen speichern oder sogar Dinge mit anderen teilen und diskutieren.
+
+So erstellen Sie ein neues Repository:
+
+Klicken Sie in der oberen rechten Ecke neben Ihrem Avatar oder Identicon auf „+“ und wählen Sie dann Neues Repository aus.
+
+Benennen Sie Ihr Repository hello-welt.
+
+Schreiben Sie eine kurze Beschreibung.
+
+Wählen Sie Dieses Repository mit einer README-Datei initialisieren aus.
+
+Klicken Sie auf Repository erstellen.
+---   ---   ---   ---
